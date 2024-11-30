@@ -1,0 +1,20 @@
+{
+  "todos": [],
+  "users": [
+    {
+      "id": "d3445a64-7b20-482f-b931-7d23843b8b6b",
+      "email": "islam2000jan@gmail.com",
+      "name": "TOSHp'ulat",
+      "surname": "Kayfullaev",
+      "password": "islam"
+    },
+    {
+      "id": "52b417be-bd46-4f1e-bd1f-7ad274ed3f52",
+      "email": "islam2000jan@gmail.com",
+      "name": "Shaxruz",
+      "surname": "Kayfullaev",
+      "password": "islam"
+    }
+  ],
+  "cards": []
+}
